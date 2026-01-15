@@ -11,9 +11,10 @@ env/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Dataset files (optional – see note below)
+# Dataset files
 *.csv
 *.xlsx
+!sample_data.csv
 
 # Model files
 *.pkl
